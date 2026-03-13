@@ -6,7 +6,7 @@
 
 **King of the deep. Full-stack developer.**
 
-*Dive deep. Ship fast.* | *Царь глубин. Ныряй глубже. Деплой быстрее.*
+*Dive deep. Ship fast.*
 
 [![Portfolio](https://img.shields.io/badge/walrusking.dev-3A4A5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walrusking.dev)
 [![Email](https://img.shields.io/badge/hi@walrusking.dev-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@walrusking.dev)
@@ -36,5 +36,5 @@
 ---
 
 <div align="center">
-<sub>Царь глубин. Ныряй глубже. Деплой быстрее.</sub>
+<sub>King of the deep. Dive deep. Ship fast.</sub>
 </div>
