@@ -24,16 +24,6 @@ focus    Laravel platforms · multi-tenant fleets · automation
 hiring   not looking · open to interesting conversations
 ```
 
-### What I build
-
-| | |
-|---|---|
-| **fleet-control/** | Control plane for a fleet of multi-tenant sites — provisioning, deploys, health monitoring, alerting.<br><sub>Laravel · MySQL · Redis · Cloudflare</sub> |
-| **payments-hub/** | Payment orchestration across several providers — crypto and cards, automated crediting, reconciliation.<br><sub>Laravel · queues · webhooks</sub> |
-| **b2b-catalog/** | Industrial B2B catalog — large SKU base, faceted search, structured data, technical SEO.<br><sub>Laravel · Blade · schema.org</sub> |
-
-<sub>Private repos — happy to walk through the architecture on a call.</sub>
-
 ### About
 
 - Building and running **multi-tenant Laravel platforms** — control plane, payments, automation
