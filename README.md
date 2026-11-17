@@ -26,13 +26,13 @@ hiring   not looking · open to interesting conversations
 
 ### Now building — Orbios
 
-**[Orbios](https://orbios.net) — a living globe of the Earth.**
+**[Orbios](https://orbios.earth) — a living globe of the Earth.**
 OrbiOS is the software at the heart of it.
 
 *Orbis* is Latin for "circle" and "world". More when there is something to show.
 
+[![Orbios](https://img.shields.io/badge/orbios.earth-020912?style=for-the-badge&logoColor=f2b56b)](https://orbios.earth)
 [![Orbios](https://img.shields.io/badge/orbios.net-020912?style=for-the-badge&logoColor=f2b56b)](https://orbios.net)
-[![Орбиос](https://img.shields.io/badge/orbios.ru-020912?style=for-the-badge&logoColor=f2b56b)](https://orbios.ru)
 [![GitHub](https://img.shields.io/badge/github-orbios--earth-020912?style=for-the-badge&logo=github&logoColor=83bfff)](https://github.com/orbios-earth)
 
 ### About
