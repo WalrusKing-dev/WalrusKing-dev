@@ -33,7 +33,7 @@ OrbiOS is the software at the heart of it.
 
 [![Orbios](https://img.shields.io/badge/orbios.earth-020912?style=for-the-badge&logoColor=f2b56b)](https://orbios.earth)
 [![Orbios](https://img.shields.io/badge/orbios.net-020912?style=for-the-badge&logoColor=f2b56b)](https://orbios.net)
-[![YouTube](https://img.shields.io/badge/youtube-orbiosearth-020912?style=for-the-badge&logo=youtube&logoColor=f2b56b)](https://www.youtube.com/@orbiosearth)
+[![YouTube](https://img.shields.io/badge/youtube-orbios__earth-020912?style=for-the-badge&logo=youtube&logoColor=f2b56b)](https://www.youtube.com/@orbios_earth)
 [![GitHub](https://img.shields.io/badge/github-orbios--earth-020912?style=for-the-badge&logo=github&logoColor=83bfff)](https://github.com/orbios-earth)
 
 ### About
